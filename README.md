@@ -3,10 +3,10 @@ This is a web app built using Streamlit that classifies different bird species f
 # Demo
 You can try the live app here ().
 # Bird Species Covered
-AFRICAN CROWNED CRANE
-BALD EAGLE
-CAMPO FLICKER
-GOLDEN EAGLE
+AFRICAN CROWNED CRANE,
+BALD EAGLE,
+CAMPO FLICKER,
+GOLDEN EAGLE,
 KAGU
 # How It Works
 Upload an image file (JPG, PNG, or JPEG format).
